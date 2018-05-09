@@ -11,6 +11,20 @@ c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\Viso
 c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.pdb
 c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.frmBuscar.resources
 C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.csprojResolveAssemblyReference.cache
+<<<<<<< ours
 C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\bin\Debug\VisorProveedor.exe.config
 C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.exe
 C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.pdb
+=======
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\bin\Debug\VisorProveedor.exe
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\bin\Debug\VisorProveedor.pdb
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\bin\Debug\MetroFramework.Design.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\bin\Debug\MetroFramework.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.csprojResolveAssemblyReference.cache
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.frmBuscar.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.PruebaGit.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.Properties.Resources.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.Proveedores.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedorREP\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.csproj.GenerateResource.Cache
+>>>>>>> theirs

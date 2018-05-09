@@ -83,6 +83,12 @@
       <DependentUpon>Buscar.cs</DependentUpon>
     </Compile>
     <Compile Include="Conexion\Cone.cs" />
+    <Compile Include="PruebaGit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PruebaGit.Designer.cs">
+      <DependentUpon>PruebaGit.cs</DependentUpon>
+    </Compile>
     <Compile Include="Metodos\Metodo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -94,6 +100,9 @@
     </Compile>
     <EmbeddedResource Include="Buscar.resx">
       <DependentUpon>Buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PruebaGit.resx">
+      <DependentUpon>PruebaGit.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -114,5 +114,14 @@ namespace VisorProveedor.Metodos
             sqd.Fill(dtverSINN, "Resul");
             return dtverSINN.Tables["Resul"];
         }
+        public DataTable PruebaGit()
+        {
+
+            string sql = "select top 500 CustNum, CustID, Name,Address1,Address2,Address3,City from Erp.Customer";
+            DataSet dtverSINN = new DataSet();
+            SqlDataAdapter sqd = new SqlDataAdapter(sql, c.cn);
+            sqd.Fill(dtverSINN, "Resul");
+            return dtverSINN.Tables["Resul"];
+        }
     }
 }
