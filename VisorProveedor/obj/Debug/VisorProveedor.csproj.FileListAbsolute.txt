@@ -1,0 +1,13 @@
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\bin\Debug\VisorProveedor.exe.config
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.Properties.Resources.resources
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.Proveedores.resources
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.csproj.GenerateResource.Cache
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\bin\Debug\VisorProveedor.exe
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\bin\Debug\VisorProveedor.pdb
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\bin\Debug\MetroFramework.Design.dll
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\bin\Debug\MetroFramework.dll
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\bin\Debug\MetroFramework.Fonts.dll
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.exe
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.pdb
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.frmBuscar.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\VisorProveedor\VisorProveedor\obj\Debug\VisorProveedor.csprojResolveAssemblyReference.cache
